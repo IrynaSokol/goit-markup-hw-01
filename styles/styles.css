@@ -81,7 +81,7 @@ body{
 
 .contact-phone:hover,
 .contact-phone:focus {
-color: var(--accent-color-web);
+color: var(--accent-color);
 }
 
 /* Web Studio hero section */
@@ -110,12 +110,12 @@ color: var(--accent-color-web);
     align-items: center;
     letter-spacing: 0.04em;
     color: var(--main-white-color);
-    background:var(--primary-text-color);
+    background:var(--accent-color);
 }
 
 .modal-btn:hover,
 .modal-btn:focus {
-    background-color: var(--accent-color);
+    background: var(--accent-color-portfolio);
     color: var(--main-white-color);
 }
 
